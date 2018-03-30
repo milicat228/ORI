@@ -16,3 +16,11 @@
   <li> Kada se hashcode koristi i računa kao trenutno mislim da može najviše 8 sastojaka ili tako nešto. </li> 
   <li> A* pretraga. Heuristika ostaje stara, Meda juri ka palačinkama i dok nema sve sastojke. </li>
 </ul>
+
+<h1> Ukratko </h1>
+<ul>
+  <li> U main-u se u delu gde se zapamte početno i krajnje stanje zapamti i lista obaveznih stanja. Pamte se kao Point - koordinate polja gde se nalazi obavezno polje. </li>
+  <li> Klasa State sadrži Dictionary<Point,bool> koji pokazuje da li je obavezno polje posećeno. </li>
+  <li> Kada se tumači da li je stanje krajnje, prođe se kroz celu mapu da bi se proverila sva polja. </li>
+</ul>
+
