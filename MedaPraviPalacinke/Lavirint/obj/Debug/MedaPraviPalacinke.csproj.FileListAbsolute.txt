@@ -1,0 +1,19 @@
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.GenerateResource.Cache
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.CoreCompileInputs.cache
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\v2 - Pretrage (Lavirint)\PretrageNapredno\Lavirint\obj\Debug\Lavirint.pdb
+A:\Desktop\MedaPraviPalacinke\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\MedaPraviPalacinke\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csprojResolveAssemblyReference.cache
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.GenerateResource.Cache
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.CoreCompileInputs.cache
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.pdb
