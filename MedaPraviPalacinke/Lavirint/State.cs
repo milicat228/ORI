@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
@@ -14,16 +15,8 @@ namespace Lavirint
         public int markI, markJ; //vrsta i kolona
         public double cost;
         //TODO 3.2: Dodati podatak koji modeluje posecena obavezna polja
-        private Dictionary<Point, bool> reqStates = new Dictionary<Point, bool>();
-
-        public State()
-        {
-            //TODO 3.3: Na pocetku ni jedno obavezno polje nije poseceno
-            foreach(Point point in Main.obaveznaStanja)
-            {
-                reqStates.Add(point, false);
-            }
-        }
+        private Hashtable visitedFields = new Hashtable(); //posecena obavezna polja se upisuju kao x_koordinata*10 + y_koordinata
+                
 
         public State sledeceStanje(int markI, int markJ)
         {            
@@ -32,16 +25,18 @@ namespace Lavirint
             rez.markJ = markJ;
             rez.parent = this;
             rez.cost = this.cost + 1;
-            //TODO 3.4: Preuzeti koja obavezna polja je Meda posetio do sada i proveriti da li je sada na novom obaveznom polju
+
+            //TODO 3.3: Preuzeti koja obavezna polja je Meda posetio do sada i proveriti da li je sada na novom obaveznom polju
             //preuzimanje zatecenog
-            foreach (KeyValuePair<Point, bool> entry in this.reqStates)
+            foreach (DictionaryEntry hash in this.visitedFields)
             {
-                rez.reqStates[entry.Key] = entry.Value;
+                rez.visitedFields.Add(hash.Key,null);            
             }
+
             //provera za trenutno
-            if( lavirint[markI,markJ] == 4)
+            if( lavirint[markI,markJ] == 4 && visitedFields.ContainsKey(markI * 10 + markJ) == false) //more biti obavezno i ne sme biti prethodno poseceno
             {
-                rez.reqStates[new Point(markI,markJ)] = true;     
+                rez.visitedFields.Add(markI*10 + markJ, null);
             }
 
             return rez;
@@ -85,16 +80,21 @@ namespace Lavirint
         public override int GetHashCode()
         {
             //TODO 3.6: Promeniti tako da hash code zavisi od broja pokupljenih obaveznih polja
-            int i = 1000;
-            int key = 100 * markI + markJ;
-            foreach (KeyValuePair<Point, bool> entry in this.reqStates)
+            int key = 10 * markI + markJ; //dve najnize cifre predstavljaju indekse polja na kome se Meda trenutno nalazi
+            //to je donjih 7 bita. Počevši od 8og bita svaki bit predstavlja da li je poseceno obavezno polje
+
+            int i = 128; //binarno 1000 0000 (oznaka da je skupljena prva kutija)
+            
+            foreach (Point point in Main.obaveznaStanja) //iterira se kroz listu svih obaveznih
             {
-                if( entry.Value == true)
+                if( visitedFields.ContainsKey( point.X * 10 + point.Y) == true ) //provera da li je trenutno obavezno polje poseceno
                 {
-                    key = key + i;
+                    key = key | i; //1 se upisuje na bit koji označava da je to obavezno polje poseceno
                 }
-                i *= 10;
+
+                i = i<<1; //shift za jedno mesto u levo. npr: 1000 0000 postaje 1 0000 0000 i tako se dobije sledeća obavezno polje
             }
+
             return key;
         }
 
@@ -108,9 +108,9 @@ namespace Lavirint
             }
 
             //stanje je krajnje samo ako je Meda posetio sva obavezna polja
-            foreach (KeyValuePair<Point, bool> entry in this.reqStates)
+            foreach (Point point in Main.obaveznaStanja)
             {
-                if( this.reqStates[entry.Key] == false)
+                if( visitedFields.ContainsKey(point.X * 10 + point.Y ) == false ) //ako nije poseceno neko obavezno polje, stanje nije konacno
                 {
                     return false; //nismo pokupili neke sastojke => stanje nije krajnje
                 }
