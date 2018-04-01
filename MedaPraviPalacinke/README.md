@@ -20,7 +20,7 @@
 <h1> Ukratko </h1>
 <ul>
   <li> U main-u se u delu gde se zapamte početno i krajnje stanje zapamti i lista obaveznih stanja. Pamte se kao Point - koordinate polja gde se nalazi obavezno polje. </li>
-  <li> Klasa State sadrži Dictionary<Point,bool> koji pokazuje da li je obavezno polje posećeno. </li>
-  <li> Kada se tumači da li je stanje krajnje, prođe se kroz celu mapu da bi se proverila sva polja. </li>
+  <li> Klasa State sadrži Hashtable koji sadrži sva posećena polja. </li>
+  <li> Kada se tumači da li je stanje krajnje, prođe se kroz listu obaveznih stanja i označe sva posećena. </li>
 </ul>
 
