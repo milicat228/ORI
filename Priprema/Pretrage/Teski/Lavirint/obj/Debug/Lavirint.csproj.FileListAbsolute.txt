@@ -1,0 +1,10 @@
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.pdb
+A:\Desktop\Priprema\Pretrage\Teski\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
