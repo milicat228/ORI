@@ -1,0 +1,10 @@
+A:\Desktop\JamesBond\Laki\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\JamesBond\Laki\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.pdb
