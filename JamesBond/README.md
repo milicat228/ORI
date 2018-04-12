@@ -16,7 +16,9 @@ Mogu se <b>dodati i auta</b>. Kada poseduje auto (krntiju), Miloš <b>ne obraća
 <h2> Teški zadatak: </h2> 
 <p> 
 Sva pravila ostaju kao u srednjem zadatku uz sledeće dodatke: <br/>
-Mogu se <b>dodati Jelene</b>. Jelena ima određeno vidno polje - radijus. U ovoj verziji zadatka Jelenin radijus je 2, a definisan je kao kvadrat kao na slici.
+Mogu se <b>dodati Jelene</b>. Jelena ima određeno vidno polje - radijus. U ovoj verziji zadatka Jelenin radijus je 2, a definisan je kao kvadrat kao na slici. </p>
+  <img src="https://github.com/milicat228/ORI-Pretrage/blob/master/JamesBond/senzorRadijus.png" height = "300px">
+<p>
 Značenje radijusa je da kada Miloš uđe u ljubičasti kvadrat, Jelena je shvatila šta on radi i potrebno je da obavi dodatni zadatak, pre odlaska na cilj.  
 </p>
   
