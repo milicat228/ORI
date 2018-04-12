@@ -9,4 +9,11 @@
        <li> <i> Teski </i> - skupljanje tri plave, a zatim dve narandzaste kutije i izbegavanje vatre </li>
      </ul>
    </li>
+  <li> <i> James Bond </i> - zadaci za kolokvijum
+     <ul>
+       <li> <i> Laki </i> - skupljanje jedne kutije i promena načina kretanja nakon skupljanja kutije (lovac i kralj kretanja) </li>
+       <li> <i> Srednji </i> - sve sto i laki + močvare koje više koštaju i auto koje ne mora da se skupi, ali smanjuje trošak močvara (kretanje top) </li>
+       <li> <i> Teski </i> - sve sto i srednji + senzori, koje se aktiviraju ulaskom u njihov radijus i ako su aktivirani izazivaju dodatno skupljanje prekidača pre cilja i usporavaju kretanje (robot stoji jednu rundu) </li>
+     </ul>
+   </li>
 </ul>
