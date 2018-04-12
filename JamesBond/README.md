@@ -24,9 +24,10 @@ Značenje radijusa je da kada Miloš uđe u ljubičasti kvadrat, Jelena je shvat
   
 <p> 
 Ukoliko je Miloš ušao u Jelenino vidno polje, on <b>mora da skupi dva buketa cveća</b>, da bi smirio Jelenu. Tek zatim Miloš može da uđe na cilj. Takođe, od trenutka ulaska u Jelenino vidno polje do trenutka kada skupi dva buketa, <b>Miloš se kreće sporo</b> - jednom napravi korak, a sledeći put stoji u mestu. <br/><br/>
-<i> Napomene: <i/>
+<i> Napomene: 
 <ul>
 <li>Nije obavezno da Miloš svaki put skuplja bukete. Ukoliko ne uđe u Jelenino vidno polje, ne mora da ih skuplja. </li>
 <li>Može da postoji više dodatih Jelena. Tumačite to kao Jelenine drugarice su njene dodatne oči i strateški su raspoređene da ometaju Miloša.</li>
 </ul>
+  </i>
 </p>
