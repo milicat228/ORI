@@ -16,4 +16,5 @@
        <li> <i> Teski </i> - sve sto i srednji + senzori, koje se aktiviraju ulaskom u njihov radijus i ako su aktivirani izazivaju dodatno skupljanje prekidača pre cilja i usporavaju kretanje (robot stoji jednu rundu) </li>
      </ul>
    </li>
+  <li> <i> Meč </i> - urađeno je sa Stringovima kao kodovima, ne intovima </li>
 </ul>
