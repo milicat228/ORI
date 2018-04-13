@@ -1,0 +1,10 @@
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\bin\Debug\TrgovackiPutnik.exe
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\bin\Debug\TrgovackiPutnik.pdb
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csprojResolveAssemblyReference.cache
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.GradoviPanel.resources
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.Main.resources
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.Properties.Resources.resources
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.GenerateResource.Cache
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.CoreCompileInputs.cache
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.exe
+A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.pdb
