@@ -5,6 +5,7 @@
 <i> Pravila: </i>
 <ul>
 <li> Robot prvo skuplja kutije na levoj strani, pa onda na desnoj. Strane se određuju referentno u odnosu na start polje. </li>
+<li> Ako se kutija nalazi u istoj koloni kao start polje, onda se računa da je levo. </li>
 <li> Ne uvoditi različite boje za kutije. </li>
 <li> Robotu ne treba zabraniti da se kreće po desnoj strani dok pokušava da skupi kutije na levoj strani, zbog pozicije zidova. 
 Može se desiti da bude prinuđen da se kreće po desnoj strani, kao na primeru na slici:
