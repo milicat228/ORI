@@ -32,44 +32,57 @@ namespace Lavirint
         {
             //TODO 3: Implementirati metodu tako da odredjuje dozvoljeno kretanje u lavirintu            
             List<State> rez = new List<State>();
-            int[,] koraci = null;
 
-            if( skupljenoObavezno == false)
+            int[,] koraci = null;
+            bool kreceSeKaoKralj = false;
+
+            if (skupljenoObavezno == false)
             {
                 koraci = lovac;
             }
             else
             {
                 koraci = kralj;
+                kreceSeKaoKralj = true;
             }
 
             for (int i = 0; i < koraci.GetLength(0); ++i)
             {
-                int nextI = markI + koraci[i, 0];
-                int nextJ = markJ + koraci[i, 1];
 
-                //proveri da li je polje validno, tj. u granicama lavirinta
-                if (nextI < 0 || nextI >= Main.brojKolona || nextJ < 0 || nextJ >= Main.brojVrsta)
+                //lovac moze da u jednom potezu prelazi bilo koji broj polja dijagonalno, sve dok ne dodje do zida ili granice lavirinta
+                int j = 1; //koliko dijagonalnih koraka treba da napravi
+                while (true)
                 {
-                    //polje nije validno, pa se preskace
-                    continue;
+                    int nextI = markI + j * koraci[i, 0];
+                    int nextJ = markJ + j * koraci[i, 1];
+                    ++j;
+
+                    //proveri da li je polje validno, tj. u granicama lavirinta
+                    if (nextI < 0 || nextI >= Main.brojKolona || nextJ < 0 || nextJ >= Main.brojVrsta)
+                    {
+                        break; //izasli smo iz granica lavirinta
+                    }
+
+                    //proveriti da li je polje sivo - ne moze se preci na njega
+                    if (lavirint[nextI, nextJ] == 1)
+                    {
+                        break; //polje je sivo
+                    }
+
+                    //dodaje se novo stanje
+                    State novi = sledeceStanje(nextI, nextJ);
+                    rez.Add(novi);
+
+                    //kralj moze da prelazi samo po jedno polje u jednom koraku, pa za njega odmah napustamo petlju
+                    if (kreceSeKaoKralj == true)
+                        break;                    
                 }
 
-                //proveriti da li je polje sivo - ne moze se preci na njega
-                if (lavirint[nextI, nextJ] == 1)
-                {
-                    //polje je sivo, pa se preskace
-                    continue;
-                }
-
-                //dodaje se novo stanje
-                State novi = sledeceStanje(nextI, nextJ);
-                rez.Add(novi);
             }
 
             return rez;
         }
-
+       
         public override int GetHashCode()
         {
             //TODO 5: Promeniti hash code da se moze vracati sa kutijom

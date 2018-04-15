@@ -19,7 +19,13 @@ namespace Lavirint
             {
                 lavirintPoruke[i] = new String[Main.brojKolona];
             }
-            icon = Properties.Resources.robot2;
+            icon = Properties.Resources.milos;
+            drink = Properties.Resources.drinks;
+            toilet = Properties.Resources.toilet;
+            bin = Properties.Resources.bin;
+            jeep = Properties.Resources.jeep;
+            jelena = Properties.Resources.jelena;
+            cvece = Properties.Resources.cvece;
         }
 
        
@@ -29,6 +35,12 @@ namespace Lavirint
         public int iconI = 0;
         public int iconJ = 0;
         Image icon = null;
+        Image drink = null;
+        Image toilet = null;
+        Image bin = null;
+        Image jeep = null;
+        Image jelena = null;
+        Image cvece = null;
 
         public void resetLavirintPoruke() {
             lavirintPoruke = new String[Main.brojVrsta][];
@@ -48,7 +60,7 @@ namespace Lavirint
             visited[state.markI, state.markJ] = true;
         }
 
-        //TODO 3.1: Prosiriti metodu tako da se napravi novi Color objekat npr: Color.MediumBlue
+        
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
@@ -102,7 +114,7 @@ namespace Lavirint
                         cc1 = Color.FromArgb(100, Color.YellowGreen);
                         cc2 = Color.FromArgb(20, Color.YellowGreen);
                     }
-                    int tt = State.lavirint[i,j];
+                    int tt = State.lavirint[i, j];
                     switch (tt)
                     {
                         case 1:
@@ -113,10 +125,26 @@ namespace Lavirint
                             break;
                         case 3:
                             cc2 = Color.FromArgb(100, Color.Red);
+                            gr.DrawImage(toilet, dx * j + dx / 2 - toilet.Width / 2, dy * i + dy / 2 - toilet.Height / 2);
                             break;
+                        //TODO 1.1: Dodati obavezno polje - oruzje za Bonda, alkohol za Milosa, mocvara polja za Bonda, kantu za Milosa, i dzip
+                        case 4:
+                            cc2 = Color.FromArgb(100, Color.Blue);
+                            gr.DrawImage(drink, dx * j + dx / 2 - drink.Width / 2, dy * i + dy / 2 - drink.Height / 2);
+                            break;
+                        case 5:
+                            cc2 = Color.FromArgb(100, Color.Fuchsia);
+                            gr.DrawImage(bin, dx * j + dx / 2 - bin.Width / 2, dy * i + dy / 2 - bin.Height / 2);
+                            break;
+                        case 6:
+                            cc2 = Color.FromArgb(100, Color.GhostWhite);
+                            gr.DrawImage(jeep, dx * j + dx / 2 - jeep.Width / 2, dy * i + dy / 2 - jeep.Height / 2);
+                            break;                       
                     }
+
                     String ttS = lavirintPoruke[i][j];
-                    gr.FillRectangle(new SolidBrush(cc2), r);
+                    if (tt == 1 || tt == 2)
+                         gr.FillRectangle(new SolidBrush(cc2), r);
                     gr.DrawRectangle(new Pen(cc1, 2), r);
                     SizeF sf = gr.MeasureString("" + ttS, f);
                     gr.DrawString("" + ttS, f, Brushes.Black, xx - sf.Width / 2, yy - sf.Height / 2);
@@ -153,7 +181,7 @@ namespace Lavirint
             }
         }
 
-        //TODO 3.2: Prosiriti metodu 
+        
         protected override void OnMouseDown(MouseEventArgs e)
         {
             base.OnMouseDown(e);
@@ -180,9 +208,19 @@ namespace Lavirint
                     tt = 3;
                     break;
                 case 3:
-                    tt = 0;
+                    tt = 4;
                     break;
-            }                    
+                //TODO 1.2: Prosiriti za dodatna polja
+                case 4:
+                    tt = 5;
+                    break;
+                case 5:
+                    tt = 6;
+                    break;
+                case 6:
+                    tt = 0;
+                    break;             
+            }
 
             State.lavirint[i,j] = tt;
             InvalidateAdv(i, j);

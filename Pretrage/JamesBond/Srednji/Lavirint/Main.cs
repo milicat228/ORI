@@ -68,7 +68,7 @@ namespace Lavirint
         private void inicijalizacijaPretrage() {
             displayPanel1.resetLavirintPoruke();
             displayPanel1.resetLavirintPoseceno();
-            allSearchStates = new List<State>();
+            allSearchStates = new List<State>();           
             for (int i = 0; i < Main.brojVrsta; i++)
             {
                 for (int j = 0; j < Main.brojKolona; j++)
@@ -80,12 +80,12 @@ namespace Lavirint
                         pocetnoStanje.markJ = j;
                         displayPanel1.iconI = i;
                         displayPanel1.iconJ = j;
-                    }else if (tt == 3)
+                    } else if (tt == 3)
                     { // KRAJNJE STANJE
                         krajnjeStanje = new State();
                         krajnjeStanje.markI = i;
                         krajnjeStanje.markJ = j;
-                    }
+                    }                   
                 }
             }
         }
@@ -171,8 +171,7 @@ namespace Lavirint
         {
             inicijalizacijaPretrage();
             ADepthSearch aDepth = new ADepthSearch();
-            State sp = pocetnoStanje;
-            //TODO 6: Pozvati odgovarajuce metode ADepthSearch klase
+            State sp = pocetnoStanje;           
             displayPanel1.Refresh();
         }
 

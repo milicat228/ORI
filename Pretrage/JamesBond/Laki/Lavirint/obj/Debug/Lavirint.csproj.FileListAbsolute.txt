@@ -8,3 +8,13 @@ A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Ca
 A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
 A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.exe
 A:\Desktop\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.pdb
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\bin\Debug\Lavirint.exe
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\bin\Debug\Lavirint.pdb
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.exe
+A:\Documents\GitHub\ORI-Pretrage\Pretrage\JamesBond\Laki\Lavirint\obj\Debug\Lavirint.pdb
