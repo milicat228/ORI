@@ -24,3 +24,13 @@ A:\Desktop\v3\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi
 A:\Desktop\v3\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.exe
 A:\Desktop\v3\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.pdb
 A:\Desktop\v3\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csprojResolveAssemblyReference.cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\bin\Debug\GentskiAlgoritmi.exe.config
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\bin\Debug\GentskiAlgoritmi.exe
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\bin\Debug\GentskiAlgoritmi.pdb
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csprojResolveAssemblyReference.cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Main.resources
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.Properties.Resources.resources
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csproj.GenerateResource.Cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.csproj.CoreCompileInputs.cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.exe
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\FunkcijaDvePromenljive\GentskiAlgoritmi\obj\Debug\GentskiAlgoritmi.pdb

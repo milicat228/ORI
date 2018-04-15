@@ -98,7 +98,7 @@ namespace GentskiAlgoritmi
             //jedinka1 treba da bude N roditelj 1 - M roditelj 2 - N roditelj 1
             //jedinka2 treba da bude N roditelj 2 - M roditelj 1 - N roditelj 2
 
-            int N = rand.Next(0, Jedinka.MAXSTRING); //slucajno se generise N
+            int N = rand.Next(0, Jedinka.MAXSTRING/2); //slucajno se generise N
             int M = Jedinka.MAXSTRING - 2 * N; 
 
             //menja se centralnih M hromozoma
@@ -181,7 +181,7 @@ namespace GentskiAlgoritmi
                 }
                 suma_ocena = ukupno;
 		        resenjeX = generacija[index_najboljeg].x;
-                resenjeX2 = generacija[index_najboljeg].x; //TODO 13: Sacuvati i x2
+                resenjeX2 = generacija[index_najboljeg].x2; //TODO 13: Sacuvati i x2
 		        int start = 0;
 
                 if(elitizam == 1) {
