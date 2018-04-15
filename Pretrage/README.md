@@ -17,4 +17,5 @@
      </ul>
    </li>
   <li> <i> Meč </i> - urađeno je sa Stringovima kao kodovima, ne intovima </li>
+  <li> <i> LevoPaDesno </i> - prvo skuplja kutije sa leve strane, pa sa desne </li>
 </ul>
