@@ -1,0 +1,10 @@
+A:\Desktop\LevoPaDesno\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\LevoPaDesno\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\LevoPaDesno\Lavirint\obj\Debug\Lavirint.pdb
