@@ -1,0 +1,9 @@
+A:\Desktop\PretrageNapredno\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\PretrageNapredno\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\PretrageNapredno\Lavirint\obj\Debug\Lavirint.pdb

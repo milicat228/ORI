@@ -1,0 +1,10 @@
+A:\Desktop\Poeni\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\Poeni\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.pdb
+A:\Desktop\Poeni\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
