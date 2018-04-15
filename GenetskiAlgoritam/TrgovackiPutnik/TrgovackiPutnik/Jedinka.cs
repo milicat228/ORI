@@ -26,8 +26,8 @@ namespace TrgovackiPutnik
         {
             for (int i = 0; i < Gradovi.cBrojGradova; i++)
             {
-                int x = (int)(Gradovi.cBrojGradova * rnd.NextDouble());
-                int y = (int)(Gradovi.cBrojGradova * rnd.NextDouble());
+                int x = rnd.Next(0, Gradovi.cBrojGradova - 1);
+                int y = rnd.Next(0, Gradovi.cBrojGradova - 1);
                 int t = hromozomi[x];
                 hromozomi[x] = hromozomi[y];
                 hromozomi[y] = t;

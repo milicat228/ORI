@@ -55,15 +55,19 @@ namespace TrgovackiPutnik
             double t = suma * rnd.NextDouble();
             double s = 0.0;
             double sp = 0.0;
-            for (int i = 0; i < Gradovi.cBrojGradova; i++)
+            for (int i = 0; i < Populacija.velicinaPopulacije; i++)
             {
-                sp += jedinke[i].fitness(g);
+                s += jedinke[i].fitness(g);
+                
+
                 if (sp <= t && t <= s)
                 {
                     retVal = i;
                     break;
                 }
+
                 sp = s;
+
             }
 
             return retVal;
@@ -127,6 +131,8 @@ namespace TrgovackiPutnik
                     if (ht1[roditelj2.hromozomi[x]] == 0)
                     {
                         dete1.hromozomi[i] = roditelj2.hromozomi[x];
+                        ht1[roditelj2.hromozomi[x]] = 1;
+                        break;
                     }
                 }
                 // za drugo dete ostatak trazi u prvom roditelju
@@ -136,6 +142,8 @@ namespace TrgovackiPutnik
                     if (ht2[roditelj1.hromozomi[x]] == 0)
                     {
                         dete2.hromozomi[i] = roditelj1.hromozomi[x];
+                        ht2[roditelj1.hromozomi[x]] = 1;
+                        break;
                     }
                 }
             }// for preostali deo dece
