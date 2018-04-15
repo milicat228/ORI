@@ -8,3 +8,13 @@ A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.G
 A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.CoreCompileInputs.cache
 A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.exe
 A:\Desktop\v3\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.pdb
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\bin\Debug\TrgovackiPutnik.exe
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\bin\Debug\TrgovackiPutnik.pdb
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csprojResolveAssemblyReference.cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.GradoviPanel.resources
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.Main.resources
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.Properties.Resources.resources
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.GenerateResource.Cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.csproj.CoreCompileInputs.cache
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.exe
+A:\Documents\GitHub\ORI-Pretrage\GenetskiAlgoritam\TrgovackiPutnik\TrgovackiPutnik\obj\Debug\TrgovackiPutnik.pdb

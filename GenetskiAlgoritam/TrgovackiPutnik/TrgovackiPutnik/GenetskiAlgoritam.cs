@@ -53,9 +53,9 @@ namespace TrgovackiPutnik
 
                 roditelji.ukrstanje(A, B, cUkrstanje, a, b);
                 // mutacija dete1
-                deca.mutacija(cMutacija, a);
+                deca.mutacija2(cMutacija, a);
                 // mutacija dete2
-                deca.mutacija(cMutacija, b);
+                deca.mutacija2(cMutacija, b);
                 deca.jedinke[i * 2] = a;
                 deca.jedinke[i * 2 + 1] = b;
 

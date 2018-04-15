@@ -84,6 +84,22 @@ namespace TrgovackiPutnik
             }
         }
 
+        //TODO 1: Drugi nacin za mutaciju
+        public void mutacija2(double k, Jedinka j)
+        {
+            for (int i = 0; i < j.hromozomi.Length; ++i)
+            {
+                double slucajanBroj = rnd.NextDouble();
+                if (slucajanBroj < k)
+                {
+                    int pos = (i + 1) % j.hromozomi.Length;
+                    int tmp = j.hromozomi[i];
+                    j.hromozomi[i] = j.hromozomi[pos];
+                    j.hromozomi[pos] = tmp;
+                }
+            }
+        }
+
         public void ukrstanje(Jedinka roditelj1, Jedinka roditelj2, double k, Jedinka dete1, Jedinka dete2)
         {
             int prag = (int)(Gradovi.cBrojGradova * rnd.NextDouble());
@@ -101,8 +117,7 @@ namespace TrgovackiPutnik
                 dete2.hromozomi[i] = roditelj2.hromozomi[i];
                 ht2[roditelj2.hromozomi[i]] = 1;
             }
-
-            //TODO 6: Dopuniti ukrstanje za preostali deo dece
+           
             for (int i = prag; i < Gradovi.cBrojGradova; i++)
             {
                 // za prvo dete ostatak trazi u drugom roditelju
