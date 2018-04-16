@@ -1,0 +1,10 @@
+A:\Desktop\Zadatak1\Lavirint\bin\Debug\Lavirint.exe
+A:\Desktop\Zadatak1\Lavirint\bin\Debug\Lavirint.pdb
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.Main.resources
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.Cache
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.exe
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.pdb
+A:\Desktop\Zadatak1\Lavirint\obj\Debug\Lavirint.csprojResolveAssemblyReference.cache
