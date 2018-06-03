@@ -1,0 +1,25 @@
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\bin\Debug\data\train.tsv
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v6\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\bin\Debug\data\train.tsv
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba6 - Bajes\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.pdb
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+A:\Desktop\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csproj.CoreCompileInputs.cache
+A:\Desktop\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.exe
+A:\Desktop\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.pdb
+A:\Desktop\NaiveBayes\NaiveBayes\obj\x86\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\data\test.tsv
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\data\train.tsv
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\data\test.csv
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\data\train.csv
+A:\Desktop\NaiveBayes\NaiveBayes\bin\Debug\data\english_stopwords.txt
