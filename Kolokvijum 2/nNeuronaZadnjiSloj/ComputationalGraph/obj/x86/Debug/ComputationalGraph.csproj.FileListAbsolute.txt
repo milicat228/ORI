@@ -16,8 +16,9 @@ A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGra
 A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
 A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
 A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
-A:\Documents\GitHub\ORI-Pretrage\Kolokvijum 2\Kolokvijum2SIIT\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.exe
-A:\Documents\GitHub\ORI-Pretrage\Kolokvijum 2\Kolokvijum2SIIT\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
-A:\Documents\GitHub\ORI-Pretrage\Kolokvijum 2\Kolokvijum2SIIT\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
-A:\Documents\GitHub\ORI-Pretrage\Kolokvijum 2\Kolokvijum2SIIT\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
-A:\Documents\GitHub\ORI-Pretrage\Kolokvijum 2\Kolokvijum2SIIT\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Desktop\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
