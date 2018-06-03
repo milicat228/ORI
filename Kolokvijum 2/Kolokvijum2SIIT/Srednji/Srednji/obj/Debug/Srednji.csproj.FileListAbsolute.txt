@@ -1,0 +1,14 @@
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\bin\Debug\Srednji.exe.config
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\bin\Debug\Srednji.exe
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\bin\Debug\Srednji.pdb
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\obj\Debug\Srednji.csprojResolveAssemblyReference.cache
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\obj\Debug\Srednji.csproj.CoreCompileInputs.cache
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\obj\Debug\Srednji.exe
+A:\Desktop\GameOfThrones\Srednji\Srednji\Srednji\obj\Debug\Srednji.pdb
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\bin\Debug\Srednji.exe.config
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\bin\Debug\Srednji.exe
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\bin\Debug\Srednji.pdb
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\obj\Debug\Srednji.csprojResolveAssemblyReference.cache
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\obj\Debug\Srednji.csproj.CoreCompileInputs.cache
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\obj\Debug\Srednji.exe
+A:\Desktop\Kolokvijum2SIIT\Srednji\Srednji\obj\Debug\Srednji.pdb

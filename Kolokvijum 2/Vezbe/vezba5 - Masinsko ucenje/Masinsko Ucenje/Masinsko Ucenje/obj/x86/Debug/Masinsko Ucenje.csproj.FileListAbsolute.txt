@@ -1,0 +1,9 @@
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.exe
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\bin\Debug\Masinsko Ucenje.pdb
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csprojResolveAssemblyReference.cache
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Main.resources
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko_Ucenje.Properties.Resources.resources
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.GenerateResource.Cache
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.csproj.CoreCompileInputs.cache
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.exe
+A:\Desktop\v5\Masinsko Ucenje\Masinsko Ucenje\obj\x86\Debug\Masinsko Ucenje.pdb
