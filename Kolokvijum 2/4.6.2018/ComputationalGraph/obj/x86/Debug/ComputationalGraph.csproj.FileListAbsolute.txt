@@ -1,0 +1,30 @@
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\v7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Documents\FAKULTET\Godine\TrecaGodina\IIsemestar\ORI\vezba7 - Graf izracunavanja -VNM\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Desktop\GameOfThrones\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Desktop\Teski\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+A:\Desktop\Teski\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csproj.CoreCompileInputs.cache
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
+A:\Desktop\nNeuronaZadnjiSloj\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
