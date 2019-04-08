@@ -36,3 +36,14 @@ A:\Documents\GitHub\ORI-Pretrage\JamesBond\Teski\Lavirint\obj\Debug\Lavirint.csp
 A:\Documents\GitHub\ORI-Pretrage\JamesBond\Teski\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
 A:\Documents\GitHub\ORI-Pretrage\JamesBond\Teski\Lavirint\obj\Debug\Lavirint.exe
 A:\Documents\GitHub\ORI-Pretrage\JamesBond\Teski\Lavirint\obj\Debug\Lavirint.pdb
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\bin\Debug\Lavirint.exe.config
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\bin\Debug\Lavirint.exe
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\bin\Debug\Lavirint.pdb
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.csprojAssemblyReference.cache
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.Main.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.csproj.GenerateResource.cache
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.csproj.CoreCompileInputs.cache
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.exe
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\JamesBond\Srednji\Lavirint\obj\Debug\Lavirint.pdb

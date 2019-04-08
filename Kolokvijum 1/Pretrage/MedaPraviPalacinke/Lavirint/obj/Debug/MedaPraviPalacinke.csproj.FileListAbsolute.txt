@@ -27,3 +27,13 @@ A:\Documents\GitHub\ORI-Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPravi
 A:\Documents\GitHub\ORI-Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.CoreCompileInputs.cache
 A:\Documents\GitHub\ORI-Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.exe
 A:\Documents\GitHub\ORI-Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.pdb
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\bin\Debug\Lavirint.exe.config
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\bin\Debug\Lavirint.exe
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\bin\Debug\Lavirint.pdb
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.DisplayPanel.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.Main.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.Properties.Resources.resources
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.GenerateResource.cache
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\MedaPraviPalacinke.csproj.CoreCompileInputs.cache
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.exe
+M:\Documents\GitHub\ORI\Kolokvijum 1\Pretrage\MedaPraviPalacinke\Lavirint\obj\Debug\Lavirint.pdb

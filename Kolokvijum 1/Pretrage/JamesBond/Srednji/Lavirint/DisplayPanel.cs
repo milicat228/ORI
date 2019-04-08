@@ -19,12 +19,12 @@ namespace Lavirint
             {
                 lavirintPoruke[i] = new String[Main.brojKolona];
             }
-            icon = Properties.Resources.milos;
+            icon = Properties.Resources.smurf;
             drink = Properties.Resources.drinks;
             toilet = Properties.Resources.toilet;
             bin = Properties.Resources.bin;
             jeep = Properties.Resources.jeep;
-            jelena = Properties.Resources.jelena;
+            smurfette = Properties.Resources.smurfette;
             cvece = Properties.Resources.cvece;
         }
 
@@ -39,7 +39,7 @@ namespace Lavirint
         Image toilet = null;
         Image bin = null;
         Image jeep = null;
-        Image jelena = null;
+        Image smurfette = null;
         Image cvece = null;
 
         public void resetLavirintPoruke() {

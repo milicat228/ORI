@@ -19,7 +19,7 @@ namespace Lavirint
             {
                 lavirintPoruke[i] = new String[Main.brojKolona];
             }
-            icon = Properties.Resources.milos;
+            icon = Properties.Resources.smurf;
             drink = Properties.Resources.drinks;
             toilet = Properties.Resources.toilet;
         }
