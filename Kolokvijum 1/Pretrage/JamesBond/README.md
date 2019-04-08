@@ -10,7 +10,7 @@ James Bond mi nije bio dovoljno zanimljiv, pa sam ja radila Štrumf alkos verzij
 <p> 
 Sva pravila ostaju kao u lakom zadatku uz sledeće dodatke: <br/>
 Mogu se <b>dodati kante</b> za smeće. Štrumf voli da skače preko kanti, pa mu se onda desi da slupa telefon. Dakle, <b>prelazak preko polja na kojima je kanta košta duplo više</b>, nego preko običnih polja. <br/>
-Mogu se <b>dodati i auta</b>. Kada poseduje auto (krntiju), Miloš <b>ne obraća pažnju na kante</b> - one koštaju kao normalna polja. Takođe, ukoliko poseduje auto, Štrumf se <b>kreće kao top</b>. Miloš ne mora da poseduje auto da bi se pretraga završila.  
+Mogu se <b>dodati i auta</b>. Kada poseduje auto (krntiju), Štrumf <b>ne obraća pažnju na kante</b> - one koštaju kao normalna polja. Takođe, ukoliko poseduje auto, Štrumf se <b>kreće kao top</b>. Štrumf ne mora da poseduje auto da bi se pretraga završila.  
 </p>
   
 <h2> Teški zadatak: </h2> 
